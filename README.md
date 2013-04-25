@@ -2,7 +2,7 @@
 <p>A single page of html used to test the typographical basics of your project. It shoud contain all the things your CSS will have to deal with. This will help you not forget to style them!</p>
 
 <h2>Usage</h2>
-<p>Push the ‘Raw’ button, copy and paste into your editor, or html project. Then just check your browser.</p>
+<p>Push the ‘Raw’ button (top right!), copy and paste into your editor, or html project. Then just check your browser.</p>
 
 <h1>Let's do this thing!</h1>
 <p>This is the first paragraph (p tags yo!) in this section, so you can check the typographic styles of your project.<p>
