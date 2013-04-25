@@ -1,5 +1,5 @@
 <h1>Typography tester</h1>
-<p>A single page of html used to test the typographical basics of your project. It shoud contain all the things your CSS will have to deal with. This will help you not forget to style them!</p>
+<p>A single page of html used to test the typographical basics of your project. It should contain all the things your CSS will have to deal with. This will help you not forget to style them!</p>
 
 <h2>Usage</h2>
 <p>Push the ‘Raw’ button (top right!), copy and paste into your editor, or html project. Then just check your browser.</p>
