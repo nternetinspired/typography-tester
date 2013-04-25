@@ -1,12 +1,11 @@
-# Typography tester
+<h1>Typography tester</h1>
+<p>A single page of html used to test the typographical basics of your project. It shoud contain all the things your CSS will have to deal with. This will help you not forget to style them!</p>
 
-A single page of html used to test the typographical basics of your project. It shoud contain all the things your CSS will have to deal with. This will help you not forget to style them!
+<h2>Usage</h2>
+<p>Push the ‘Raw’ button, copy and paste into your editor, or html project. Then just check your browser.</p>
 
-## Usage
-Drop it in your editor, or html project, check your browser. Nothing much more to say about that.
-
-<h1>A simple typographic test page</h1>
-<p>This is the first paragraph (p tags yo!) of a simple page to check the typographic styles of your project.<p>
+<h1>Let's do this thing!</h1>
+<p>This is the first paragraph (p tags yo!) in this section, so you can check the typographic styles of your project.<p>
 <p>Why?</p>
 <p>I found myself writing a selection of wacky type, usually within a CMS editor in my case, in order to visualise the typographic styles I was setting in a live environment. That shit gets boring eventually, so I decided to do this thing instead.</p>
 
