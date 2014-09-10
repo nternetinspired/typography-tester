@@ -1,81 +1,114 @@
-<h1>Typography tester</h1>
+---
+layout: page
+title: Typography tester
+---
 
-<p class="intro">Why? I found myself writing a selection of wacky type, usually within a CMS editor in my case, in order to visualise the typographic styles I was setting in a live environment. That shit gets tiresome real quick, so I made this thing.</p>
-<p>In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content still not being ready. Think of a news blog that's filled with content hourly on the day of going live. However, reviewers tend to be distracted by comprehensible content, say, a random text copied from a newspaper or the internet. The are likely to focus on the text, disregarding the layout and its elements.</p>
-<h2>Headings</h2>
-<p>All the headings, for your delectation. Besides, random text risks to be unintendedly humorous or offensive, an unacceptable risk in corporate environments. Lorem ipsum and its many variants have been employed since the early ‘60s, and quite likely since the sixteenth century.</p>
+Why? I found myself writing a selection of wacky type, usually within a CMS editor in my case, in order to visualise the typographic styles I was setting in a live environment. That shit gets tiresome real quick, so I made this thing.
+{: class="intro" }
 
-<h1>h1</h1>
-<h2>h2</h2>
-<h3>h3</h3>
-<h4>h4</h4>
-<h5>h5</h5>
-<h6>h6</h6>
+In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content still not being ready. Think of a news blog that’s filled with content hourly on the day of going live. However, reviewers tend to be distracted by comprehensible content, say, a random text copied from a newspaper or the internet. The are likely to focus on the text, disregarding the layout and its elements.Besides, random text risks to be unintendedly humorous or offensive, an unacceptable risk in corporate environments. Lorem ipsum and its many variants have been employed since the early ‘60s, and quite likely since the sixteenth century.
 
-<h1>h1</h1>
-<p>h1, the most awesome of the headings. Veritus torquatos per no, wisi pertinax dissentias id nec, eum ei summo veniam. Mei enim movet mediocritatem ex, vis cu denique percipitur. Vidisse nonumes ut cum, tacimates splendide te ius, eam ex quot vivendum platonem. Cu eirmod civibus apeirian his.</p>
+## Headings
 
-<h2>h2</h2>
-<p>h2, not quite so awesome but still pretty important as far as headings go. Lorem ipsum dolor sit amet, meis natum tractatos mei ut, vis posse aeterno an. Melius numquam an vis, eum ferri scriptorem cu. In nam nibh iisque. Erant munere dolore te his. Pro viderer labores civibus ut, id has omnesque cotidieque. Eu aeterno mentitum nec, his docendi aliquando te, id quo tale omittantur suscipiantur.</p>
+All the headings, for your delectation. Scenester actually Tumblr cred, ethical sartorial cardigan mustache slow-carb cliche. Kitsch McSweeney's roof party American Apparel, you probably haven't heard of them polaroid cardigan.
 
-<h3>h3</h3>
-<p>h3. About as low as I usually go down the ladder. Below h3? Why bother?? Eos ea hinc cetero ceteros, vocibus albucius te mei, debet invenire necessitatibus an usu.</p>
+<hr/>
 
-<h4>h4</h4>
-<p>h4. Really, that doesn't seem very important does it? Et munere habemus vis, in vis tota facilis, at affert munere tacimates vix.</h4>
+# h1 size
 
-<h5>h5</h5>
-<p>Really, I've given up at this point. Ut iisque nominavi antiopam his, at has utamur aperiri delicata, ne vis gubergren adipiscing. Id melius posidonium dissentias vis.</p>
+## h2 size
 
-<h6>h6</h6>
-<p>Nothing to see here. h6? Are you trying to be funny? Cotidieque definitiones duo ea, eu dico feugait nam. Mentitum disputando mel in, mei nobis fabellas adversarium at, ne pro dico noster.</p>
+### h3 size
 
-<h2>Rules</h2>
-<p>Check it out, horizontal rules. These need special treatment if they aren't going to fubar your baseline</p>
-<hr>
-<p>Look ma, I'm between rules!</p>
-<hr>
+#### h4 size
 
-<h2>Phrase elements</h2>
-<p>When I speak to people I don't know, I frequently place a <strong>strong</strong>, and often random, <em>emphasis</em> on certain words to creep them out.</p>
-<p>If they are old enough to have have used dial-up modems I use <b>b tags</b> or, almost certainly random, <i>i tags</i> instead. That's how I roll.</p>
+##### h5 size
 
-<h2>Quotes</h2>
-<p>This is a paragraph with an <q>awesome inline quote using q tags</q>, the of type which I'd all but forgotten about. Does anyone use those?</p>
+###### h6 size
 
-<blockquote>I found myself writing a selection of wacky type, usually within a CMS editor in my case, in order to visualise the typographic styles I was setting in a live environment. That shit gets boring eventually, so I decided to do this thing instead.</blockquote>
+<hr/>
 
-<p>And for the really fancy stuff:</p>
+Crucifix fixie Williamsburg pour-over, hoodie Pitchfork American Apparel ethical letterpress wolf meh flexitarian chillwave master cleanse. Disrupt actually ethnic pop-up, literally Etsy Schlitz locavore paleo yr gentrify.
 
-<blockquote>
-  <p>Sometimes, I go nuts and to put paragraph tags inside the blockquotes!</p>
-  <p>Because sometimes you need more than one paragraph inside a blockquote. Not often mind.</p>
-</blockquote>
+# h1, the most awesome of headings.
+Mustache vinyl tofu meh. Sriracha asymmetrical wayfarers, you probably haven't heard of them viral kogi fashion axe meggings craft beer drinking vinegar Bushwick letterpress tousled selvage. Keffiyeh Odd Future Thundercats master cleanse cornhole, meggings gentrify before they sold out.
 
-<p>And, as long as it's something I'm willing to admit to, I'll go as far as citing the quote with cite tags, thusly:</p>
-<blockquote>
-	<p>I frequently surprise myself with the ease at which I can type random shit!</p>
-	<cite>I said that, right here.</cite>
-</blockquote>
+Church-key tousled forage cliche quinoa Truffaut. Direct trade roof party umami, meh whatever Tonx Cosby sweater pug. Kitsch cardigan Schlitz, flannel Cosby sweater four loko skateboard hella pug polaroid farm-to-table cray PBR forage pop-up. Ethical mumblecore you probably haven't heard of them, 8-bit bicycle rights cornhole fixie Blue Bottle. Cred organic tofu selfies, occupy pug pickled McSweeney's try-hard.
 
-<h2>Code</h2>
-<p>If I want demo my l33t haxx0r skillz I'll</p>
-<pre>Serve you my code inside pre tags</pre>
-<p>Or even: <code>Lovely, semantic code tags!</code></p>
-<p>If I'm feeling particularly retro, I might define the following as keyboard input (chuckle) using kbd tags: <kbd>$ma$h this cod3z in br0. M@d skillz. Beep.</kbd></p>
+## h2, not quite so awesome but still pretty important.
+Plaid iPhone pug, Tonx sartorial farm-to-table food truck single-origin coffee gentrify Godard disrupt cliche. Try-hard biodiesel brunch McSweeney's Blue Bottle Shoreditch. Distillery readymade artisan, Kickstarter biodiesel kale chips Intelligentsia. Flannel squid fingerstache American Apparel brunch, Brooklyn literally fashion axe.
 
-<h2>Gists</h2>
-<p>I'm going to randomly embed a Gist here, because people sometimes do that. Deal with it.
-<script src="https://gist.github.com/nternetinspired/9409514.js"></script>
+### h3. About as low as I usually go down the rabbit hole.
+Below h3? Why bother?? Selvage brunch keffiyeh mumblecore normcore, cornhole direct trade Banksy dreamcatcher chillwave crucifix wayfarers Austin. Vinyl put a bird on it normcore narwhal Thundercats. Disrupt mlkshk viral fanny pack, photo booth cred pork belly polaroid stumptown keytar fashion axe Intelligentsia tousled Truffaut.
 
-<h2>The other things</h2>
-<p>If there are things I don't really want, or expect, you to read like all that legal junk
-    <small>I'll hide all that inside small tags, so you know it isn't really important</small>,
-    because I
-    <strike>don't give a shit</strike>
-    details matter.
-    <mark>I might use mark tags to make things ugly.</mark>
-</p>
-<p>For definitions it's best to use the dfn tag, thusly:
-    <dfn>Moron (mo·ron) - A person who'd write a whole page of this crap in order to check their typographical basics.</dfn>
-</p>
+#### h4. Really, this doesn’t seem very important does it?
+Put a bird on it actually McSweeney's, skateboard gentrify art party mumblecore fixie. Bicycle rights food truck cornhole, tofu fixie chia organic.
+Fixie Echo Park trust fund, ugh master cleanse Shoreditch flannel Bushwick umami hella post-ironic organic authentic roof party. Tousled organic tattooed bitters, Pitchfork Austin roof party disrupt.
+
+##### h5. I’ve given up at this point.
+iPhone Tumblr hoodie mixtape selvage vegan. Swag lomo Banksy Brooklyn viral disrupt, dreamcatcher whatever irony Intelligentsia XOXO.
+Cred viral irony narwhal shabby chic. Swag pop-up cornhole viral Portland. Vice pug Echo Park tattooed, Helvetica mustache blog freegan High Life single-origin coffee you probably haven't heard of them whatever.
+
+###### h6. Nothing to see here.
+Blue Bottle cray ethical, fingerstache mlkshk PBR PBR&B mixtape Marfa butcher messenger bag gastropub. Plaid biodiesel flannel, ugh lo-fi pour-over Austin Intelligentsia Bushwick letterpress seitan.
+Cred Bushwick mumblecore bitters slow-carb Intelligentsia ethical, fap Vice organic. Whatever biodiesel aesthetic freegan sartorial, cray hashtag locavore salvia Etsy gastropub +1 fingerstache tousled dreamcatcher.
+
+## Rules
+
+Check it out, horizontal rules. These need special treatment if they aren’t going to fubar your baseline
+
+------------------------------------------------------------------------
+
+Look ma, I’m between rules!
+
+------------------------------------------------------------------------
+
+## Phrase elements
+
+When I speak to people I don’t know, I frequently place a **strong**, and often random, *emphasis* on certain words to creep them out.
+
+If they are old enough to have have used dial-up modems I use **b tags** or, almost certainly random, *i tags* instead. That’s how I roll.
+
+## Quotes
+
+This is a paragraph with an “awesome inline quote using q tags”, the of type which I’d all but forgotten about. Does anyone use those?
+
+> I found myself writing a selection of wacky type, usually within a CMS editor in my case, in order to visualise the typographic styles I was setting in a live environment. That shit gets boring eventually, so I decided to do this thing instead.
+
+And for the really fancy stuff:
+
+> Sometimes, I go nuts and to put paragraph tags inside the blockquotes!
+>
+> Because sometimes you need more than one paragraph inside a blockquote. Not often mind.
+
+And, as long as it’s something I’m willing to admit to, I’ll go as far as citing the quote with cite tags, thusly:
+
+> I frequently surprise myself with the ease at which I can type random shit!
+>
+> <cite>I said that, right here.</cite>
+
+## Code
+
+If I want demo my l33t haxx0r skillz I’ll
+
+    Serve you my code inside pre tags
+
+Or even: `Lovely, semantic code tags!`
+
+If I’m feeling particularly retro, I might define the following as keyboard input (chuckle) using kbd tags: <kbd>\(ma\)h this cod3z in br0. M@d skillz. Beep.</kbd>
+
+### Gists
+
+I’m going to randomly embed a Gist here (using Jekyll's syntax), because people sometimes do that. Deal with it.
+
+{% gist 9409514 %}
+
+## Other things
+
+If there are things I don’t really want, or expect, you to read like all that legal junk <small>I’ll hide all that inside small tags, so you know it isn’t really important</small>, because I <strike>don’t give a shit</strike> details matter.
+
+<mark>I might use mark tags to make things ugly.</mark>
+
+For definitions it’s best to use the dfn tag, thusly:
+
+<dfn>Moron (mo·ron) - A person who’d write a whole page of this crap in order to check their typographical basics.</dfn>
