@@ -1,7 +1,4 @@
----
-layout: page
-title: Typography tester
----
+# Typography tester
 
 Why? I found myself writing a selection of wacky type, usually within a CMS editor in my case, in order to visualise the typographic styles I was setting in a live environment. That shit gets tiresome real quick, so I made this thing.
 {: class="intro" }
